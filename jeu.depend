@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1700512080 source:d:\ghofranee\jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"couleur.h"
+	"admin.h"
+	"default.h"
+	"supprimer.h"
+	"solo.h"
+	"duo.h"
+	"theme.h"
+
+1700506515 d:\ghofranee\jeu\couleur.h
+
+1700506515 d:\ghofranee\jeu\admin.h
+
+1700506515 d:\ghofranee\jeu\default.h
+
+1700506515 d:\ghofranee\jeu\supprimer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700506922 d:\ghofranee\jeu\solo.h
+	<stdio.h>
+	"theme.h"
+
+1700511763 d:\ghofranee\jeu\theme.h
+
+1700512778 d:\ghofranee\jeu\duo.h
+	<stdio.h>
+
+1701816420 source:c:\users\dell\desktop\test\structur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"couleur.h"
+	"admin.h"
+	"default.h"
+	"supprimer.h"
+	"solo.h"
+	"duo.h"
+	"theme.h"
+
+1701622521 c:\users\dell\desktop\test\structur\couleur.h
+
+1701621625 c:\users\dell\desktop\test\structur\admin.h
+
+1700588649 c:\users\dell\desktop\test\structur\default.h
+
+1701622824 c:\users\dell\desktop\test\structur\supprimer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701817627 c:\users\dell\desktop\test\structur\solo.h
+	<stdio.h>
+	"theme.h"
+	"admin1.h"
+
+1701333505 c:\users\dell\desktop\test\structur\theme.h
+
+1701819808 c:\users\dell\desktop\test\structur\duo.h
+	<stdio.h>
+
+1701333657 c:\users\dell\desktop\test\structur\admin1.h
+
